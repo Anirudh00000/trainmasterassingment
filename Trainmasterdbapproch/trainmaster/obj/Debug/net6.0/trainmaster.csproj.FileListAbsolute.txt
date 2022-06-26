@@ -1,0 +1,14 @@
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\bin\Debug\net6.0\trainmaster.deps.json
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\bin\Debug\net6.0\trainmaster.runtimeconfig.json
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\bin\Debug\net6.0\trainmaster.dll
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\bin\Debug\net6.0\trainmaster.pdb
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\obj\Debug\net6.0\trainmaster.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\obj\Debug\net6.0\trainmaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\obj\Debug\net6.0\trainmaster.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\obj\Debug\net6.0\trainmaster.AssemblyInfo.cs
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\obj\Debug\net6.0\trainmaster.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\obj\Debug\net6.0\trainmaster.dll
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\obj\Debug\net6.0\refint\trainmaster.dll
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\obj\Debug\net6.0\trainmaster.pdb
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\obj\Debug\net6.0\trainmaster.genruntimeconfig.cache
+C:\Users\ANI\source\repos\Trainmasterdbapproch\trainmaster\obj\Debug\net6.0\ref\trainmaster.dll
